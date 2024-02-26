@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 从零到一，实现react全家桶 [build-my-own-react](https://github.com/claude-hub/build-my-own-react)
 
-- 个人博客 仓库: [blog](https://github.com/claude-hub/blog)， 在线地址: [claude-gitee.gitee.io](https://blog.claude-hub.cn/)
+- 个人博客 仓库: [blog](https://github.com/claude-hub/blog)， 在线地址: [blog.claude-hub.cn](https://blog.claude-hub.cn/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=claude-hub&show_icons=true)
