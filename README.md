@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 个人博客 仓库: [blog](https://github.com/claude-hub/blog)， 在线地址: [blog.claude-hub.cn](https://blog.claude-hub.cn/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=claude-hub&show_icons=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=claude-hub&show_icons=true) -->
